@@ -116,18 +116,6 @@ No build step required. Open `index.html` directly in any modern browser.
 
 ---
 
-## 🔥 Potential Improvements
-
-- Persist session data with `localStorage` or a backend (currently resets on page reload)
-- Real-time multi-user sync via WebSockets or Firebase
-- Actual audio files for ambient sounds (Rain, Café, Forest)
-- Push notifications when a Pomodoro session ends
-- Export leaderboard and session stats as CSV
-- OAuth login (Google / GitHub) for persistent profiles
-- Mobile app version (React Native / PWA)
-
----
-
 ## 👨‍💻 Authors
 
 Built as a **2nd Year Frontend Project Prototype** by our team.  
