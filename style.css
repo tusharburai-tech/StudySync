@@ -92,7 +92,7 @@ input, button { font-family: var(--font); }
 }
 
 .nav-link {
-    font-size: 16px;
+    font-size: 12px;
   padding: 7px 14px;
   border-radius: var(--radius-sm);
   font-weight: 500;
